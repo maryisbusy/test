@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-new file contents
-=======
-editing from within github to test merge conflict
->>>>>>> b5897c0d8016e8cc8e5902b7d7c8c4a4780e3fc6
+edit
